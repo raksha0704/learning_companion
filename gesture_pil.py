@@ -43,7 +43,7 @@ Algo :  find bounding box
             if width > 3*height
                 search for word
             else
-                hightlight a line
+                hightlight a line or bookmark
 
         else
             if height > 2*width
